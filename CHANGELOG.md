@@ -1,3 +1,13 @@
+<a name="1.75.1"></a>
+## [1.75.1](https://github.com/mozilla/fxa-basket-proxy/compare/v1.75.0...v1.75.1) (2017-07-13)
+
+
+### Bug Fixes
+
+* **nodejs:** update to node:4.8.4-alpine ([2870795](https://github.com/mozilla/fxa-basket-proxy/commit/2870795))
+
+
+
 <a name="1.75.0"></a>
 # [1.75.0](https://github.com/mozilla/fxa-basket-proxy/compare/v0.74.0...v1.75.0) (2017-05-24)
 
