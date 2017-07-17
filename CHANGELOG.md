@@ -1,3 +1,13 @@
+<a name="1.91.1"></a>
+## [1.91.1](https://github.com/mozilla/fxa-basket-proxy/compare/v1.91.0...v1.91.1) (2017-07-17)
+
+
+### Bug Fixes
+
+* **node:** update to secfix node:6.11.1-alpine ([fc2dfaf](https://github.com/mozilla/fxa-basket-proxy/commit/fc2dfaf))
+
+
+
 <a name="1.91.0"></a>
 # [1.91.0](https://github.com/mozilla/fxa-basket-proxy/compare/v1.75.0...v1.91.0) (2017-07-17)
 
