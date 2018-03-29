@@ -1,6 +1,12 @@
 {
-  "env": "dev",
+  "env": "development",
   "log": {
     "level": "debug"
+  },
+  "basket":{
+    "sqs": {
+       "region": "local",
+       "queue_url": "http://localhost:4100/queue/local-queue4"
+    }
   }
 }
