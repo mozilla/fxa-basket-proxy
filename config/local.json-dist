@@ -6,7 +6,7 @@
   "basket":{
     "sqs": {
        "region": "local",
-       "queue_url": "http://localhost:4100/queue/local-queue4"
+       "queue_url": "http://localhost:4100/queue/local-queue3"
     }
   }
 }
