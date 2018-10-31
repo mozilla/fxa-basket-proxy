@@ -1,3 +1,22 @@
+<a name="1.124.0"></a>
+# [1.124.0](https://github.com/mozilla/fxa-basket-proxy/compare/v1.115.0...v1.124.0) (2018-10-31)
+
+
+### Bug Fixes
+
+* **deps:** add filtered npm audit ([698ac3c](https://github.com/mozilla/fxa-basket-proxy/commit/698ac3c)), closes [mozilla/fxa#303](https://github.com/mozilla/fxa/issues/303)
+* **deps:** Update deps to resolve `npm audit` warnings. ([c10d68d](https://github.com/mozilla/fxa-basket-proxy/commit/c10d68d))
+
+### chore
+
+* **deps:** remove grunt-nsp and nsp grunttask ([138fdd7](https://github.com/mozilla/fxa-basket-proxy/commit/138fdd7))
+
+### Features
+
+* **ci:** update to circle 2 (#61); r=rfk ([3bd0f43](https://github.com/mozilla/fxa-basket-proxy/commit/3bd0f43)), closes [#61](https://github.com/mozilla/fxa-basket-proxy/issues/61)
+
+
+
 <a name="1.115.0"></a>
 # [1.115.0](https://github.com/mozilla/fxa-basket-proxy/compare/v1.112.0...v1.115.0) (2018-06-27)
 
