@@ -1,5 +1,8 @@
 # Firefox Accounts Basket Proxy
 
+**This project has moved to https://github.com/mozilla/fxa/tree/master/packages/fxa-basket-proxy**
+
+
 [![Build Status: Travis](https://travis-ci.org/mozilla/fxa-basket-proxy.svg?branch=master)](https://travis-ci.org/mozilla/fxa-basket-proxy)
 
 This server acts as an intermediary between Firefox Accounts and
